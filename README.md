@@ -28,6 +28,10 @@
   ## usage
   run node index.js
 
+  
+
+  ![Pro readme](https://user-images.githubusercontent.com/91926452/146684878-d4579417-7b99-4074-ade8-48a44ee7d809.JPG)
+
   Deployed video link : https://watch.screencastify.com/v/2JhHl5zxoKuTVXcdl1Z2
 
   ## test
